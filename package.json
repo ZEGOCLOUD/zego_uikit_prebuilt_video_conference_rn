@@ -10,6 +10,7 @@
     "lib",
     "android",
     "ios",
+    "src",
     "zego-uikit-prebuilt-video-conference-rn.podspec",
     "!lib/typescript/example",
     "!android/build",
